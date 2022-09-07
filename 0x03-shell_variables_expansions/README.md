@@ -6,4 +6,6 @@ FILE 2-Add /action to the PATH. /action should be the last directory the shell l
 
 FILE 3-Create a script that counts the number of directories in the PATH.
 
-FILE 4-Create a script that lists environment variables.
+FILE 4-Create a script that lists environment variables
+
+FILE 5-Create a script that lists all local variables and environment variables,and functions.
