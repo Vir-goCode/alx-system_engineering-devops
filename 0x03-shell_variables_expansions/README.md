@@ -21,6 +21,8 @@ FILE 9-Write a script that prints the result of POWER divided by DIVIDE.
 
 FILE 10-Write a script that displays the result of BREATHE to the power LOVE.
 
+FILE 11-Write a script that converts a number from base 2  to base 10.
+
 
 
 
