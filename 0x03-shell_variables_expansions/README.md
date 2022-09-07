@@ -8,4 +8,8 @@ FILE 3-Create a script that counts the number of directories in the PATH.
 
 FILE 4-Create a script that lists environment variables
 
-FILE 5-Create a script that lists all local variables and environment variables,and functions.
+FILE 5-Create a script that lists all local variables and environment variables,and functions
+
+FILE 6-Create a script that creates a new local variable.
+
+
