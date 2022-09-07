@@ -25,12 +25,4 @@ FILE 11-Write a script that converts a number from base 2  to base 10
 
 FILE 12-Create a script that prints all possible combinationsof two letters, except oo.
 
-
-
-
-
-
-
-
-
-.
+FILE 13-Write a script taht prints a number with 2 decimal places.
